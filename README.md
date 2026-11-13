@@ -40,8 +40,8 @@ Currently a **Cloud Team Intern at Telkomsel**, working on Huawei Cloud automati
 
 | Project | Description | Tech |
 |---|---|---|
-| [**Academy Next Top Model Website & Chatbot**](https://github.com/Nazwadna/academynexttopmodel) | Laravel website for a modeling academy with an NLP chatbot and admin dashboard. My thesis, Grade A: **88.89%** intent accuracy, **92%** user acceptance. | Laravel, MySQL, Flask |
-| [**Lenteng Agung Public Service Website**](https://github.com/Nazwadna/kelurahan-la-main) | Public service and complaint website for an urban village office. Led a team of 5 as Project Manager; officially handed over in January 2026. | React.js, Tailwind CSS, Supabase |
+| [**Academy Next Top Model Website & Chatbot**](https://github.com/Nazwadna/academynexttopmodel) | Laravel website for a modeling academy with an NLP chatbot and admin dashboard. My thesis, Grade A: **88.89%** intent accuracy, **92%** user acceptance. [▶ Demo video](https://nazwadnaportfolio.vercel.app/demo/academy-next-top-model.html) | Laravel, MySQL, Flask |
+| [**Lenteng Agung Public Service Website**](https://github.com/Nazwadna/kelurahan-la-main) | Public service and complaint website for an urban village office. Led a team of 5 as Project Manager; officially handed over in January 2026. [▶ Demo video](https://nazwadnaportfolio.vercel.app/demo/lenteng-agung.html) | React.js, Tailwind CSS, Supabase |
 | [**Perpus GAS**](https://github.com/Nazwadna/perpusgas) | Library management system with member and admin views. | React.js, PHP, MySQL |
 | [**Jewepe Wedding Organizer**](https://github.com/Nazwadna/jwp_wedding) | Wedding package catalog and ordering system with an admin panel. | CodeIgniter 3, PHP, MySQL |
 
