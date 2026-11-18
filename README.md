@@ -3,7 +3,7 @@
 **Web Developer** | Informatics Engineering graduate, Gunadarma University | BNSP-certified Junior Web Programmer
 
 I build websites and admin dashboards with **React.js** and **Laravel**, from Figma design to a working application.
-Currently interning in the **Cloud Engineer Team at Telkomsel**, working on Huawei Cloud automation with FunctionGraph and Terraform.
+Currently a **Web Developer intern at PT Wijaya Karya Serang Panimbang (WIKA Group)**, handling internal web projects from design to handover, and interning in the **Cloud Engineer Team at Telkomsel**, working on Huawei Cloud automation with FunctionGraph and Terraform.
 
 🌐 **Portfolio:** [nazwadnaportfolio.vercel.app](https://nazwadnaportfolio.vercel.app/)
 💼 **LinkedIn:** [linkedin.com/in/nazwaaudina](https://www.linkedin.com/in/nazwaaudina/)
